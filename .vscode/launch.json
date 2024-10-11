@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SistemParkir20",
+            "request": "launch",
+            "mainClass": "SistemParkir20",
+            "projectName": "JOBSHEET7_bfd5aa5c"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop20",
+            "request": "launch",
+            "mainClass": "Bioskop20",
+            "projectName": "JOBSHEET7_bfd5aa5c"
+        },
+        {
+            "type": "java",
+            "name": "CafeDoWhile20",
+            "request": "launch",
+            "mainClass": "CafeDoWhile20",
+            "projectName": "JOBSHEET7_bfd5aa5c"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile20",
+            "request": "launch",
+            "mainClass": "SiakadWhile20",
+            "projectName": "JOBSHEET7_bfd5aa5c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SiakadFor20",
+            "request": "launch",
+            "mainClass": "SiakadFor20",
+            "projectName": "JOBSHEET7_bfd5aa5c"
+        }
+    ]
+}
